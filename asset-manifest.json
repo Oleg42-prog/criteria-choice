@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/criteria-choice/static/css/main.8d3da381.css",
+    "main.js": "/criteria-choice/static/js/main.cf0d0d58.js",
+    "index.html": "/criteria-choice/index.html",
+    "main.8d3da381.css.map": "/criteria-choice/static/css/main.8d3da381.css.map",
+    "main.cf0d0d58.js.map": "/criteria-choice/static/js/main.cf0d0d58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3da381.css",
+    "static/js/main.cf0d0d58.js"
+  ]
+}
